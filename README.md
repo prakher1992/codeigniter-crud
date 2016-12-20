@@ -1,1 +1,1 @@
-# codeigniter-crud
+# codeigniter-admin
